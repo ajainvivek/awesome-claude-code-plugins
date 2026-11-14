@@ -393,6 +393,7 @@ Community-maintained plugin marketplaces you can add to access additional plugin
 
 | Marketplace | Description | Install |
 |-------------|-------------|---------|
+| [brainfish-ai/ballet-agent-plugins](https://github.com/brainfish-ai/ballet-agent-plugins) | Plugin marketplace with 7 Ballet skills and the Ballet MCP server for Claude Code, Cursor, and Codex | `/plugin marketplace add brainfish-ai/ballet-agent-plugins` then `/plugin install ballet@ballet-plugins` |
 | [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips?tab=readme-ov-file#install-the-dx-plugin) | dx plugin: GitHub Actions analysis (`/gha`), conversation cloning (`/clone`, `/half-clone`), context handoffs (`/handoff`), Reddit fetching (`/reddit-fetch`) | `claude plugin marketplace add ykdojo/claude-code-tips` then `claude plugin install dx@ykdojo` |
 
 
